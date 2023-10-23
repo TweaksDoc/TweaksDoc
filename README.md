@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TweaksDoc
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Bash, C, HTML, CSS, & Python.
+- 👀 Interested in Web Development, & Cybersecurity.
+- 🌱 Learning HTML, CSS, JavaScript, & Python.
 - 💞️ I’m looking to collaborate on basic tasks in projects to inspire me for more.
 - 📫 How to reach me (X: https://twitter.com/mozaffar_doc)
 
